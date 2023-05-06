@@ -1,0 +1,10 @@
+C:\Users\Sefa\Desktop\Personel\Personel\bin\Debug\Personel.exe.config
+C:\Users\Sefa\Desktop\Personel\Personel\bin\Debug\Personel.exe
+C:\Users\Sefa\Desktop\Personel\Personel\bin\Debug\Personel.pdb
+C:\Users\Sefa\Desktop\Personel\Personel\obj\Debug\Personel.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\Personel\Personel\obj\Debug\Personel.Form1.resources
+C:\Users\Sefa\Desktop\Personel\Personel\obj\Debug\Personel.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Personel\Personel\obj\Debug\Personel.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Personel\Personel\obj\Debug\Personel.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Personel\Personel\obj\Debug\Personel.exe
+C:\Users\Sefa\Desktop\Personel\Personel\obj\Debug\Personel.pdb
